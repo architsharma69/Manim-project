@@ -5,8 +5,15 @@ If anyone is completely new to manim, here is the documentation for it: https://
 ## Ideas
 * Variational Calculus Problems
 * Coordinate Transformations and Jacobian?
+  *   Starting with substitution for single-variable integrals, introducing the concept of the Jacobian, and moving to multivariable integrals (Archit)
 * Visualising certain proofs in Algebra / Set theory?
-  *   e.g. Visualising the CSB proof may be an interesting idea
+  *   e.g. Visualising the CSB proof may be an interesting idea (Anirudh)
+* Visualising proofs related to AOC & Zorn
+  *   e.g. Zorn's Lemma with the inclusion ordering - generating a visual intuition for the existence of a maximal element
+  *   Zorn's Lemma with other kinds of ordering
+  *   Partial Orderings
+  *   Transfinite induction
+  *   ZFC + Choice vs ZFC + Not Choice
 
 ## Collaboration Process
 The file `scene_template.py` (thanks, Anirudh) details a workflow that would be quite useful for a Manim project with a lot of collaborators. I was too lazy to write this out myself so here's an AI summary:
