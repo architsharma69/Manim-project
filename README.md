@@ -11,9 +11,9 @@ If anyone is completely new to manim, here is the documentation for it: https://
 * Visualising proofs related to AOC & Zorn
   *   e.g. Zorn's Lemma with the inclusion ordering - generating a visual intuition for the existence of a maximal element
   *   Zorn's Lemma with other kinds of ordering
-  *   Partial Orderings
+  *   Orderings/Partial Orderings (Kevin)
   *   Transfinite induction
-  *   ZFC + Choice vs ZFC + Not Choice
+  *   ZFC + Choice vs ZFC + Not Choice 
 
 ## Collaboration Process
 The file `scene_template.py` (thanks, Anirudh) details a workflow that would be quite useful for a Manim project with a lot of collaborators. I was too lazy to write this out myself so here's an AI summary:
